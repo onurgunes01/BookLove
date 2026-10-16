@@ -1,0 +1,6 @@
+{
+  "name": "Bizim Kitaplığımız",
+  "description": "Ben ve eşim için özel, yayınevi ve tür filtrelemeli, 1 sayfalık özet ve okuma durumu yönetimli modern kişisel kitaplık.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
